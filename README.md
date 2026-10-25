@@ -5,12 +5,10 @@
   <br/><br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/USER-find04744--arch-00FF66?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/ACCESS-GRANTED-00E5FF?style=for-the-badge&logo=matrix&logoColor=black" />
-    <img src="https://img.shields.io/badge/CYBER_CORE-ONLINE-FF0055?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/USER-find04744--arch-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=30363d" />
+    <img src="https://img.shields.io/badge/ACCESS-GRANTED-1f6feb?style=for-the-badge&logo=matrix&logoColor=white&labelColor=30363d" />
+    <img src="https://img.shields.io/badge/CYBER_CORE-ONLINE-da3633?style=for-the-badge&logo=target&logoColor=white&labelColor=30363d" />
   </p>
-
-  <sub>🔒 ABC লেখাটায় ১০ বার ক্লিক করলে আসল নাম দেখা যাবে</sub>
 
 </div>
 
