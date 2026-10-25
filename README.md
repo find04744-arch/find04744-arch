@@ -1,25 +1,29 @@
-# Hi there, I'm Md. Mahmudul Hasan Mahfuz 👋
+<div align="center">
 
-### 👨‍💻 About Me
-- 🎓 **Education:** CSE Student at International University of Scholars
-- 💻 **Focus:** Full-Stack Web Development & Problem Solving
-- 🚀 **Tech Stack:** React, Next.js, Tailwind CSS, JavaScript, Java & Python
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com) | [Email](mailto:your-email@example.com)
+  <!-- HACKER STYLE BANNER -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vcenter=true&width=600&height=70&lines=SYSTEM.INIT();+MD.+MAHMUDUL+HASAN;FULL-STACK+DEVELOPER;CYBERSPACE+EXPLORER;BUILDING+THE+FUTURE..." alt="Typing Header" />
 
----
-
-### 🛠️ Tech Stack & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=for-the-badge&logo=target&logoColor=black" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/ACCESS-GRANTED-blue?style=for-the-badge&logo=matrix&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![Mahfuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=find04744-arch&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=find04744-arch&layout=compact&theme=dark)
+### 💻 `whoami`
+
+```bash
+root@find04744-arch:~# cat profile.json
+{
+  "name": "Md. Mahmudul Hasan Mahfuz",
+  "role": "Full-Stack Developer & CSE Student",
+  "location": "Bangladesh",
+  "education": "International University of Scholars",
+  "core_stack": ["React", "Next.js", "Tailwind CSS", "Node.js", "Python", "Java"],
+  "status": "Engineering scalable web applications & security tools"
+}
