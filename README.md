@@ -1,16 +1,14 @@
 <div align="center">
 
-  <!-- PROGRAMMER / HACKER ANIMATED AVATAR & GLOW -->
-  <a href="https://github.com/find04744-arch">
-    <img src="https://media.giphy.com/media/qgQUGG4dbv5BLWoLyv/giphy.gif" width="180px" style="border-radius: 50%; border: 3px solid #00FF66;" alt="Hacker Avatar" />
-  </a>
+  <!-- CYBERPUNK HACKER FACE BANNER -->
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" width="100%" style="border-radius: 10px; border: 2px solid #00FF66;" alt="Cyber Hacker Vibe" />
 
   <br/><br/>
 
   <!-- TYPING ANIMATION (NAME & ACCOUNT DETAILS) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF66&center=true&vcenter=true&width=700&height=70&lines=%3F+INIT_USER%3A+Md.+Mahmudul+Hasan+Mahfuz;%3E+HANDLE%3A+find04744-arch;%3E+ROLE%3A+Full-Stack+Architect+%7C+CSE;%3E+STATUS%3A+System+Online+%E2%9A%A1" alt="Animated User Info" />
 
-  <br/>
+  <br/><br/>
 
   <!-- ANIMATED SYSTEM BADGES -->
   <p align="center">
